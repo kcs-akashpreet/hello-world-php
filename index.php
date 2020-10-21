@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello 12345";
+echo "Hello";
